@@ -1,4 +1,4 @@
-github.com/janatshaban/AndroidLibXrayLite
+module github.com/janatshaban/AndroidLibXrayLite
 
 go 1.26
 
